@@ -2,3 +2,19 @@ This is a sample txt file about to be staged on Git
 Testing...
 Testing..
 Testing.
+First commit has been made
+Now I am setting the stage for the second,
+making several modifications to this txt file
+making several new* modifications
+using the VS Code 
+This is a sample change made on the About Me Branch
+About Me: 
+My name is James Akande and I am a budding technical writer with content marketing experience.
+Specifically experience creating and optimizxing content across personal dev, web apps, and Blockchain 
+However, I have had a heavy leaning on Blockchain, so that makes me a Blockchain Technical Writer,
+SINCE MY SPECIALTY WAS IN CREATING EXPLAINERS TO DEMYSTIFY TECHNICAL CONTENT.
+Pursuing a career in Technical Writing sits at an intersection of my love for technology, systems, and my general fascination with the dev world
+And of course, my passion for learning new techologies, while writing about them.
+My aim is to create a better world for developers and end-users via documentation that simplifies.
+Thank you. 
+About me end.
