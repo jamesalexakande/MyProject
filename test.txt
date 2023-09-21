@@ -1,0 +1,4 @@
+This is a sample txt file about to be staged on Git
+Testing...
+Testing..
+Testing.
